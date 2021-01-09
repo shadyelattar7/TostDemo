@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         ToastManager.shared.showToast(message: "No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,No Internet Connection,", view: self.view, postion: .bottom, backgroundColor: .systemRed,icon: #imageLiteral(resourceName: "emoji"))
         
         print("Halllo🖐🏻GitHub")
-
+        print("GutenTag🖐🏻GitHub")
     }
     
     @IBAction func pushToProfile_btn(_ sender: Any) {
